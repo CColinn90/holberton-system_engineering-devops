@@ -1,5 +1,7 @@
 0. My name is Betty  
 
+Script that switches the current user to the user betty.
+
 -You should use exactly 8 characters for your command (+1 character for the new line)
 
 -You can assume that the user betty will exist when we will run your script
@@ -15,7 +17,7 @@ julien@ubuntu:/tmp/h$
 1. Who am I
 
 
-Write a script that prints the effective username of the current user.
+Script that prints the effective username of the current user.
 
 julien@ubuntu:/tmp/h$ ./1-who_am_i
 
