@@ -40,7 +40,7 @@ Note: depending on the user, you will get a different output.
 
 ---------------------------------------------
 
-New owner
+3 New owner
 
 script that changes the owner of the file hello to the user betty.
 
@@ -63,4 +63,12 @@ total 4
 -rw-rw-r-- 1 betty  julien  0 Sep 20 14:18 hello
 
 julien@ubuntu:/tmp/h$
+
+------------------------------------
+
+4. Empty!
+
+script that creates an empty file called hello.
+
+----------------------------------------
 
