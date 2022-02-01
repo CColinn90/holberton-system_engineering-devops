@@ -73,6 +73,18 @@ script that counts the number of directories and sub-directories in the current 
 
 script that displays the 10 newest files in the current directory.
 
+-----------------------------------------------
+
+13. Being unique is better than being perfect
+
+script that takes a list of words as input and prints only words that appear exactly once.
+
+Input format: One line, one word
+Output format: One line, one word
+Words should be sorted
+
+-----------------------------------------------------
+
 
 
 
