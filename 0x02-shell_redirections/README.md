@@ -69,6 +69,10 @@ script that counts the number of directories and sub-directories in the current 
 
 -----------------------------------------------
 
+12. What’s new
+
+script that displays the 10 newest files in the current directory.
+
 
 
 
