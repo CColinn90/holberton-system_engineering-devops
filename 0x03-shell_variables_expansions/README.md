@@ -46,10 +46,14 @@ Create a script that creates a new local variable
 
 ---------------------------------------------------------
 
+7. Global variable
+
 script that creates a new global variable.
 
 Name: BEST
 Value: School
+
+-----------------------------------------------------------
 
   
   
