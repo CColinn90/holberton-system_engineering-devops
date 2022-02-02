@@ -1,4 +1,4 @@
-0. <o>
+0. 0
   
   Create a script that creates an alias.
 
@@ -17,7 +17,7 @@ Value: rm *
   
   2. The path to success is to take massive, determined action
   
-  script that prints hello user, where user is the current Linux user.
+  Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
   
   ------------------------------------
   
