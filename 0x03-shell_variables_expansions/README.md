@@ -40,6 +40,8 @@ script that lists all local variables and environment variables, and functions.
 ------------------------------------------------------
 
 
+6. Local variable
 
+Create a script that creates a new local variable
   
   
